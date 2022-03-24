@@ -24,4 +24,4 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Publish
-      run: dotnet publish <C:\Users\Admin\Downloads\ex1\CMP186-WorkshopGitHubAction>
+      run: dotnet publish <CMP186-WorkshopGitHubAction/CMP186-WorkshopGitHubAction.csproj>
